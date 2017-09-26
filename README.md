@@ -20,3 +20,6 @@ In progress
 
 ### Caveats
 * There needs to be an controller route to the shell you are injecting, so this would be useful in an scenario where you can replace a local file that gets rendered as a partial razor view. I am currently testing for RFI to find ways to elimite this caveat. 
+
+## Fancy Demo
+<img src="https://github.com/auseche-r7/DotNET-Core-Playground/blob/master/MVCShell/wwwroot/images/demo.gif" />
